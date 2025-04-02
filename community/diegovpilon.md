@@ -21,6 +21,7 @@ Estou estudando Java e vou me tornar um desenvolvedor backend.
    IBNC é um sistema desenvolvido em Spring Boot (Java 21) que permite a criação e gestão de artigos para igrejas. Os usuários     podem se cadastrar, criar artigos e favoritar publicações de interesse.
 
 Tecnologias Utilizadas
+
     Java 21
     Spring Boot
     PostgreSQL (via Docker)
