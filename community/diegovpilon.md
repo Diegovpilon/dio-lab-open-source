@@ -21,14 +21,11 @@ Estou estudando Java e vou me tornar um desenvolvedor backend.
    IBNC é um sistema desenvolvido em Spring Boot (Java 21) que permite a criação e gestão de artigos para igrejas. Os usuários     podem se cadastrar, criar artigos e favoritar publicações de interesse.
 
 Tecnologias Utilizadas
-
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-    ![Maven](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Maven&logoColor=white)
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+    Java 21
+    Spring Boot
+    PostgreSQL (via Docker)
+    Maven 3.9.9
+    Google Java Format (para formatação de código)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-willian-vicente-a463647b)
 
@@ -37,3 +34,5 @@ Tecnologias Utilizadas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegovpilon)
 
 
+
+   
